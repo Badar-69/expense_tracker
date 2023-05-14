@@ -1,4 +1,4 @@
- Preview Link:https://badar-69.github.io/expense_tracker/
+ Preview Link: https://badar-69.github.io/expense_tracker/
  
 # Getting Started with Create React App
 
